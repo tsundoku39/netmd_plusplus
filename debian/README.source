@@ -1,0 +1,8 @@
+libnetmd++ for Debian
+-----------------
+
+Upstream never tagged a 1.0.4 release, so this package is built
+from the last commit before the 1.2.0beta changes began.
+
+ -- Maia <maia@tsundoku.ne.jp>  Wed, 06 Aug 2025 08:09:45 -0700
+
